@@ -1,81 +1,81 @@
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Geometry/Meshes/CubeMaterial.uasset" 0
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Geometry/Meshes/1M_Cube.uasset" 1
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Geometry/Meshes/CubeMaterial.uasset" 0
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Geometry/Meshes/1M_Cube.uasset" 1
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 3
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 4
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonJump_End.uasset" 5
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Consommables/Assets/Base.uasset" 6
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Consommables/Assets/Croie.uasset" 7
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Consommables/Assets/KitDeSoins.uasset" 8
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPerson_Jump.uasset" 9
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 10
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonJump_Start.uasset" 11
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonIdle.uasset" 12
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonRun.uasset" 13
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonWalk.uasset" 14
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 15
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 4
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonJump_End.uasset" 5
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Consommables/Assets/Base.uasset" 6
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Consommables/Assets/Croie.uasset" 7
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Consommables/Assets/KitDeSoins.uasset" 8
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPerson_Jump.uasset" 9
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 10
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonJump_Start.uasset" 11
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonIdle.uasset" 12
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonRun.uasset" 13
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPersonWalk.uasset" 14
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 15
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 16
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 17
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/E_EquipementSlot.uasset" 18
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/E_ItemType.uasset" 19
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/S_ItemInfo.uasset" 20
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/InteractData/BPI_Interact.uasset" 21
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/InteractData/BP_BaseInteract.uasset" 22
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Bp_BaseItem.uasset" 23
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Clothes/S_ClothesSocket.uasset" 24
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Clothes/Bp_BaseClothes.uasset" 25
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Weapon/S_WeaponInfo.uasset" 26
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Weapon/BP_BaseWeapon.uasset" 27
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 17
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/E_EquipementSlot.uasset" 18
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/E_ItemType.uasset" 19
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/S_ItemInfo.uasset" 20
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/InteractData/BPI_Interact.uasset" 21
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/InteractData/BP_BaseInteract.uasset" 22
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Bp_BaseItem.uasset" 23
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Clothes/S_ClothesSocket.uasset" 24
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Clothes/Bp_BaseClothes.uasset" 25
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Weapon/S_WeaponInfo.uasset" 26
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Weapon/BP_BaseWeapon.uasset" 27
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 28
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 29
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 30
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 31
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 32
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 33
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 34
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 35
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 36
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 37
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 38
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 39
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 40
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 41
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 42
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 43
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 44
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 45
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Mannequin/Character/Mesh/SK_Mannequin.uasset" 46
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Inventaire/LivePreview/T_LivePreview.uasset" 47
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Inventaire/LivePreview/BP_LivePreview.uasset" 48
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/BPI_CharaLivePreview.uasset" 49
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/BPI_Equipement.uasset" 50
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/InteractData/S_InteractVariables.uasset" 51
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Inventaire/LivePreview/M_LivePreview.uasset" 52
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Inventaire/UI_EquipementSlot.uasset" 53
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Inventaire/UI_Equipement.uasset" 54
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Inventaire/UI_InventorySlot.uasset" 55
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Inventaire/UI_Inventory.uasset" 56
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/BluePrint/BP_Player.uasset" 57
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Besoins/HUD_besoins.uasset" 58
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/BluePrint/GM_Player.uasset" 59
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Hair_Color.uasset" 60
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Material_001.uasset" 61
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Material_002.uasset" 62
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_PhysicsAsset.uasset" 63
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_Skeleton.uasset" 64
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair.uasset" 65
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_Anim_Action_001.uasset" 66
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_Anim_SkeletAction.uasset" 67
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Idle.uasset" 68
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Jump/Falling.uasset" 69
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Jump/JumpEnd.uasset" 70
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Jump/Startjump.uasset" 71
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Backward.uasset" 72
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Forward.uasset" 73
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Left.uasset" 74
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Right.uasset" 75
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/BluePrint/BPD_SimpleWalk.uasset" 76
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Player/Design/Animations/BluePrint/BPA_Player.uasset" 77
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 31
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 32
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 33
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 34
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 35
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 36
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 37
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 38
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 39
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 40
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 41
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 42
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 43
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 44
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 45
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Mannequin/Character/Mesh/SK_Mannequin.uasset" 46
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Inventaire/LivePreview/T_LivePreview.uasset" 47
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Inventaire/LivePreview/BP_LivePreview.uasset" 48
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/BPI_CharaLivePreview.uasset" 49
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/BPI_Equipement.uasset" 50
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/InteractData/S_InteractVariables.uasset" 51
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Inventaire/LivePreview/M_LivePreview.uasset" 52
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Inventaire/UI_EquipementSlot.uasset" 53
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Inventaire/UI_Equipement.uasset" 54
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Inventaire/UI_InventorySlot.uasset" 55
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Inventaire/UI_Inventory.uasset" 56
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/BluePrint/BP_Player.uasset" 57
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Besoins/HUD_besoins.uasset" 58
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/BluePrint/GM_Player.uasset" 59
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Hair_Color.uasset" 60
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Material_001.uasset" 61
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Material_002.uasset" 62
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_PhysicsAsset.uasset" 63
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_Skeleton.uasset" 64
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair.uasset" 65
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_Anim_Action_001.uasset" 66
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/low_poly_head_with_1_hair_Anim_SkeletAction.uasset" 67
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Idle.uasset" 68
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Jump/Falling.uasset" 69
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Jump/JumpEnd.uasset" 70
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Jump/Startjump.uasset" 71
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Backward.uasset" 72
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Forward.uasset" 73
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Left.uasset" 74
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/Previews/Walk/Walk_Right.uasset" 75
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/BluePrint/BPD_SimpleWalk.uasset" 76
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Player/Design/Animations/BluePrint/BPA_Player.uasset" 77
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 78
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 79
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 80
@@ -214,63 +214,64 @@
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 213
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 214
 "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 215
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 216
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 217
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 218
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 219
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 220
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 221
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 222
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 223
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 224
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 225
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 226
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 227
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 228
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 229
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 230
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 231
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 232
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 233
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 234
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 235
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 236
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 237
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 238
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 239
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 240
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 241
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 242
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 243
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 244
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 245
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 246
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 247
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 248
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 249
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 250
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 251
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 252
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Weapon/Assets/Bord.uasset" 253
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Weapon/Assets/Lame.uasset" 254
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Weapon/Assets/Manche.uasset" 255
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Weapon/Assets/Epee.uasset" 256
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Weapon/BP_Sword.uasset" 257
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/FirstOpus_BuiltData.uasset" 258
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Item/Data/InteractData/M_Outline.uasset" 259
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/Geometry/Meshes/TemplateFloor.uasset" 260
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/RampMaterial.uasset" 261
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 262
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 263
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 264
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 265
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 266
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/FirstOpus.umap" 267
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/Menu/HUD/recources/F_L_S_Logo.uasset" 268
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/Menu/HUD/UI_Bonus.uasset" 269
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/Menu/HUD/UI_Duel.uasset" 270
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/Menu/HUD/UI_Play.uasset" 271
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/Menu/HUD/UI_BaseMenu.uasset" 272
-"D:/Freedom Life Studio UE4/Freedom_Life/Content/Maps/Menu/Menu.umap" 273
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 274
-"../../../Engine/Content/Maps/Entry.umap" 275
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 216
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 217
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 218
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 219
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 220
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 221
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 222
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 223
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 224
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 225
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 226
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 227
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 228
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 229
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 230
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 231
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 232
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 233
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 234
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 235
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 236
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 237
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 240
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 241
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 242
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 243
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 244
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 245
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 246
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 247
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 248
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 249
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 250
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 251
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 252
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 253
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Weapon/Assets/Bord.uasset" 254
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Weapon/Assets/Lame.uasset" 255
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Weapon/Assets/Manche.uasset" 256
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Weapon/Assets/Epee.uasset" 257
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Weapon/BP_Sword.uasset" 258
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/FirstOpus_BuiltData.uasset" 259
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Item/Data/InteractData/M_Outline.uasset" 260
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/Geometry/Meshes/TemplateFloor.uasset" 261
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/RampMaterial.uasset" 262
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 263
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 264
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 265
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 266
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/DefaultData/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 267
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/FirstOpus.umap" 268
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/Menu/HUD/recources/F_L_S_Logo.uasset" 269
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/Menu/HUD/UI_Bonus.uasset" 270
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/Menu/HUD/UI_Duel.uasset" 271
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/Menu/HUD/UI_Play.uasset" 272
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/Menu/HUD/UI_BaseMenu.uasset" 273
+"C:/Users/veill/Documents/GitHub/Freedom_Life/Content/Maps/Menu/Menu.umap" 274
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 275
+"../../../Engine/Content/Maps/Entry.umap" 276
