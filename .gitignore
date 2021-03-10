@@ -13,3 +13,9 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+*.umap
+*.uasset
+Content/Maps/FirstOpus.umap
+Content/Maps/FirstOpus_BuiltData.uasset
+Content/Maps/FirstOpus.umap
+Content/Maps/FirstOpus_BuiltData.uasset
